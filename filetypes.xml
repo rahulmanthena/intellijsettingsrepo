@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="aar" type="ARCHIVE" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
