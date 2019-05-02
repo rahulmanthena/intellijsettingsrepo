@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
+      <mapping ext="arb" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
