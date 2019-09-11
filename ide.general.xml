@@ -5,6 +5,5 @@
   </component>
   <component name="Registry">
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="dart.server.additional.arguments" value="--enable-completion-model" />
   </component>
 </application>
